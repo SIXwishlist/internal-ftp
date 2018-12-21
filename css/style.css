@@ -1,0 +1,19 @@
+body {
+    padding-top: 50px;
+}
+
+.starter-template {
+    padding: 40px 15px;
+}
+
+
+/*Progress Notice*/
+
+ul.progress-notice {
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+
+.progress-notice li {
+    list-style-type: none;
+}
